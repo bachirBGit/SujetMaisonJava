@@ -1,6 +1,6 @@
 # SujetMaisonJava
 
-Le fichier Utility.jar est une librairie contenant la fonction partition. Cette librairie peut être importée dans n’importe quel projet. Pour l’importer dans un projet avec Eclipse, il suffit de faire clique droit sur le projet -> Build Path -> Configure Build Path -> Add External Jars. Pour l’utiliser, faire l’import de la classe ListUtility : « import com.adneom.bachirbiaich.util.*; »
+Le fichier Utility.jar est une librairie contenant la fonction partition. Cette librairie peut être importée dans n’importe quel projet. Pour l’importer dans un projet avec Eclipse, il suffit de faire clique droit sur le projet -> Build Path -> Configure Build Path -> Add External Jars. Pour l’utiliser, faire l’import de la classe ListUtility : « import com.adneom.util.*; »
 Faire ensuite : « ListUtility.partition(liste, taille); »
 
 
